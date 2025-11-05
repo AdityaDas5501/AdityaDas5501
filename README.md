@@ -2,7 +2,17 @@
 <!--                🌌 GITHUB PROFILE README                    -->
 <!-- ========================================================= -->
 
-<h1 align="center">👋 Hey there, I'm Aditya Das</h1>
+<div align="center">
+
+<picture>
+  <!-- Dark mode -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=5&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Aditya+Das" />
+  <!-- Light mode -->
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=5&color=000000&center=true&vCenter=true&repeat=false&width=600&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Aditya+Das" />
+  <!-- Fallback (used if no theme detection) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=5&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Aditya+Das" alt="Hey there, I'm Aditya Das" />
+</picture>
+</div>
 <h3 align="center">🚀 Passionate Full Stack Developer | C++ • Java • Spring Boot • AI-ML • Web Dev Enthusiast</h3>
 
 ## 💫 About Me:
