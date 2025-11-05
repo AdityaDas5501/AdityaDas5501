@@ -89,7 +89,11 @@
 </picture>
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AdityaDas5501&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=AdityaDas5501&limit=5&theme=radical&combine_all_yearly_contributions=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=AdityaDas5501&limit=5&theme=default&combine_all_yearly_contributions=true">
+  <img src="https://github-contributor-stats.vercel.app/api?username=AdityaDas5501&limit=5&theme=default&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdityaDas5501/AdityaDas5501/output/pacman-contribution-graph-dark.svg">
