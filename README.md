@@ -7,15 +7,13 @@
 
 ## 💫 About Me:
 
+<img align="right" src="./images/Cat_Meow.gif" alt="Meow" width="200">
+
 - 🎓 I’m a college student passionate about building things that make an impact.
 - 💻 I love working on web development, especially backend systems using Java Spring Boot.
 - 🧠 I’m also deeply curious about Artificial Intelligence and Machine Learning, exploring how data and algorithms can solve real-world problems.
 - ⚙️ I enjoy problem solving, tackling challenges through logical thinking and clean code.
 - 🎯 Goal: Win SIH & Flipkart Grid 🏆
-
-<div align="center">
-  <img height="200" src="./images/Cat_Meow.gif"/>
-</div>
 
 ## 🌐 Connect with me:
 <p align="left">
