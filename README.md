@@ -17,7 +17,7 @@
 
 ## 💫 About Me:
 
-<img align="right" src="./images/Cat_Meow.gif" alt="Meow" width="200">
+<img align="right" src="./images/Cat_Meow.gif" alt="Meow" width="190">
 
 - 🎓 I’m a college student passionate about building things that make an impact.
 - 💻 I love working on web development, especially backend systems using Java Spring Boot.
