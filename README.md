@@ -4,20 +4,16 @@
 
 <h1 align="center">👋 Hey there, I'm Aditya Das</h1>
 <h3 align="center">🚀 Passionate Full Stack Developer | C++ • Java • Spring Boot • AI-ML • Web Dev Enthusiast</h3>
+   
+---
+
+## 💫 About Me:
 
 - 🎓 I’m a college student passionate about building things that make an impact.
 - 💻 I love working on web development, especially backend systems using Java Spring Boot.
 - 🧠 I’m also deeply curious about Artificial Intelligence and Machine Learning, exploring how data and algorithms can solve real-world problems.
 - ⚙️ I enjoy problem solving, tackling challenges through logical thinking and clean code.
 - 🎯 Goal: Win SIH & Flipkart Grid 🏆
-   
----
-
-## 💫 About Me:
-🎓 I’m a college student passionate about building things that make an impact.
-💻 I love working on web development, especially backend systems using Java Spring Boot.
-🧠 I’m also deeply curious about Artificial Intelligence and Machine Learning, exploring how data and algorithms can solve real-world problems.
-⚙️ I enjoy problem solving, tackling challenges through logical thinking and clean code.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-das-129917380) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Adi_5501) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AdiDas_5501) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityadas5501@gmail.com) 
