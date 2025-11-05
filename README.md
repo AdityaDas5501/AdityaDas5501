@@ -13,6 +13,10 @@
 - ⚙️ I enjoy problem solving, tackling challenges through logical thinking and clean code.
 - 🎯 Goal: Win SIH & Flipkart Grid 🏆
 
+<div align="center">
+  <img height="200" src="./images/Cat_Meow.gif"/>
+</div>
+
 ## 🌐 Connect with me:
 <p align="left">
 <a href="https://twitter.com/adidas_5501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adidas_5501" height="30" width="40" /></a>
