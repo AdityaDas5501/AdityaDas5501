@@ -4,8 +4,6 @@
 
 <h1 align="center">👋 Hey there, I'm Aditya Das</h1>
 <h3 align="center">🚀 Passionate Full Stack Developer | C++ • Java • Spring Boot • AI-ML • Web Dev Enthusiast</h3>
-   
----
 
 ## 💫 About Me:
 
