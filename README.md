@@ -68,9 +68,25 @@
 </div>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AdityaDas5501&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AdityaDas5501&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDas5501&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AdityaDas5501&theme=radical&hide_border=false&include_all_commits=true&count_private=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AdityaDas5501&theme=default&hide_border=false&include_all_commits=true&count_private=false">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaDas5501&theme=default&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
+</picture>
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=AdityaDas5501&theme=radical&hide_border=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=AdityaDas5501&theme=default&hide_border=false">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AdityaDas5501&theme=default&hide_border=false" alt="GitHub Streak"/>
+</picture>
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDas5501&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDas5501&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDas5501&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
+</picture>
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AdityaDas5501&limit=5&theme=dark&combine_all_yearly_contributions=true)
