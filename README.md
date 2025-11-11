@@ -97,7 +97,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDas5501&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"&cache_seconds=86400">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDas5501&theme=default&hide_border=falseinclude_all_commits=truecount_private=false&layout=compact">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDas5501&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact"&cache_seconds=86400" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDas5501&theme=default&hide_border=falseinclude_all_commits=truecount_private=false&layout=compact" alt="Top Languages"/>
 </picture>
 
 ## 🔝 Top Contributed Repo
