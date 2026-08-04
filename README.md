@@ -81,23 +81,16 @@
 
 ## 📊 GitHub Stats:
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AdityaDas5501&theme=radical&hide_border=false&include_all_commits=true&count_private=false">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AdityaDas5501&theme=default&hide_border=false&include_all_commits=true&count_private=false">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaDas5501&theme=default&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-stats-github.pages.dev/api?username=AdityaDas5501&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-stats-github.pages.dev/api?username=AdityaDas5501&theme=light">
+  <img src="https://readme-stats-github.pages.dev/api?username=AdityaDas5501&theme=light" alt="GitHub Stats"/>
 </picture>
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=AdityaDas5501&theme=radical&hide_border=false">
-  <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=AdityaDas5501&theme=default&hide_border=false">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AdityaDas5501&theme=default&hide_border=false" alt="GitHub Streak"/>
-</picture>
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDas5501&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDas5501&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDas5501&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-stats-github.pages.dev/api/top-langs?username=AdityaDas5501&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-stats-github.pages.dev/api/top-langs?username=AdityaDas5501&theme=light">
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=AdityaDas5501&theme=light" alt="Top Languages"/>
 </picture>
 
 ## 🔝 Top Contributed Repo
